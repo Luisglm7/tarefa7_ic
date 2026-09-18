@@ -4,7 +4,7 @@
 
 ¹Discente do Curso de Tecnologia em Mecatrônica Industrial – Faculdade de Tecnologia SENAI Sorocaba "Santa Rosália"  
 ²Docente / Orientador – Faculdade de Tecnologia SENAI Sorocaba "Santa Rosália"  
-*E-mails:* luis.melo@aluno.senai.br; deivison.takatu@sp.senai.br; glauco@sp.senai.br  
+*E-mails:* luisglmelo07@gmail.com
 
 ---
 
